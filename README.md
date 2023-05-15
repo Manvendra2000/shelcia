@@ -18,7 +18,7 @@ _** I am a final year engineering student designing and developing web applicati
 Shelcia is a confident, focus-driven individual. Shelcia has got good experience working as a Web developer with modern tech stacks like MERN and some old good stuff like LAMP, and not to forget the goddess Vanilla JS. Shelcia is often driven by purpose so she is looking forward to being part of something which means a big deal to her. She has good experience working as a Web developer and Designer in startup(s) where she ended up creating web apps. Shelcia loves open source contributions and does freelance occasionally. 
 
 
-Currently into React Native and GoLang.
+Currently into React Native and GoLang
 
 <br></br>
 
